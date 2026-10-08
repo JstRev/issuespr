@@ -8,3 +8,6 @@ class Calcolatrice:
 
     def dividi(self, a, b):
         return a / b
+    
+    def somma(self, a, b):
+        return a + b
